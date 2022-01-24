@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnniePM
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning python (django framework for web development)
+- 🌱 I’m currently a django developer
 
 
 <!---

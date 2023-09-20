@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnniePM
 - 👀 I’m interested in web and app development.
 - 🌱 I’m currently a full stack developer
-- my work stack is currently python(django + flask) javascript (react+ react native) + mysql + sqllite
+- my work stack is currently python(django + flask) javascript/Typescript (react+ react native) + mysql + MongoDB
 
 
 <!---

@@ -4,6 +4,10 @@
 - my work stack is currently python(django + flask) javascript/Typescript (react+ react native) + mysql + MongoDB
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnniePM&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnniePM&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnniePM&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnniePM&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnniePM&theme=default&utcOffset=8)
 <!---
 johnniePM/johnniePM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
